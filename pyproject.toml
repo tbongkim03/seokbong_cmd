@@ -1,6 +1,6 @@
 [project]
 name = "seokbong_cmd"
-version = "0.1.0"
+version = "1.0.0"
 description = "Default template for PDM package"
 authors = [
     {name = "tbongkim03", email = "tbongkim03@gmial.com"},
@@ -19,3 +19,7 @@ seokbong_cmd = 'seokbong_cmd.seokbong_cmd:call'
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+HOMEPAGE = "https://github.com/tbongkim03/seokbong_cmd"
+ISSUES = "https://github.com/tbongkim03/seokbong_cmd/issues"
