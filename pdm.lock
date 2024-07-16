@@ -5,4 +5,37 @@
 groups = ["default"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.4.2"
-content_hash = "sha256:d3007c65cf6f599df32770f1bb58581b12054c3fa0d167035d674644a49fb97b"
+content_hash = "sha256:21d1035685791b02daa3d44207f12dd0c3961a486f7477a2439e88614d9279ca"
+
+[[package]]
+name = "seokbong-add"
+version = "0.1.0"
+requires_python = ">=3.9"
+summary = "Default template for PDM package"
+groups = ["default"]
+files = [
+    {file = "seokbong_add-0.1.0-py3-none-any.whl", hash = "sha256:8decedff8fb6c8bb9be6e63c13ccbe6947b2d9402215559a73179cc53d5259bd"},
+    {file = "seokbong_add-0.1.0.tar.gz", hash = "sha256:975c542d7b33ae810ad6783c853096d421dc377a193c594ef681c204f82af285"},
+]
+
+[[package]]
+name = "seokbong-division"
+version = "0.1.0"
+requires_python = ">=3.9"
+summary = "Default template for PDM package"
+groups = ["default"]
+files = [
+    {file = "seokbong_division-0.1.0-py3-none-any.whl", hash = "sha256:e09970cba409c2a81a6ab9ad9ee4148ce7ba205ae562bed621be861f2e6f25f3"},
+    {file = "seokbong_division-0.1.0.tar.gz", hash = "sha256:c80950d53dff144048e77f9467fc4703db3b1ea5c85ac445c0a71b31a71f123c"},
+]
+
+[[package]]
+name = "seokbong-mul"
+version = "0.1.0"
+requires_python = ">=3.9"
+summary = "Default template for PDM package"
+groups = ["default"]
+files = [
+    {file = "seokbong_mul-0.1.0-py3-none-any.whl", hash = "sha256:f0d5338b2f3c1033763a6ac6c366d18b96b642bb05a818bdc37b4396ed458892"},
+    {file = "seokbong_mul-0.1.0.tar.gz", hash = "sha256:5862d148ce9c9db98451894fa96767735670c6fd7e40b2686b1982a41f0269cc"},
+]
