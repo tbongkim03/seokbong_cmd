@@ -14,15 +14,15 @@
 
    ![pip install](https://github.com/tbongkim03/seokbong_cmd/blob/main/img/install_pip.png?raw=true)
 
-   plus func
+   `$ seokbong_cmd_plus`
 
    ![add](https://github.com/tbongkim03/seokbong_cmd/blob/main/img/add.png?raw=true)
 
-   mul func
+   `$ seokbong_cmd_mul`
 
    ![mul](https://github.com/tbongkim03/seokbong_cmd/blob/main/img/mul.png?raw=true)
 
-   div func
+   `$ seokbong_cmd_div`
 
    ![div](https://github.com/tbongkim03/seokbong_cmd/blob/main/img/div.png?raw=true)
 
