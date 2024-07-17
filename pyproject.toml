@@ -6,9 +6,9 @@ authors = [
     {name = "tbongkim03", email = "tbongkim03@gmial.com"},
 ]
 dependencies = [
-    "seokbong-add>=0.1.0",
-    "seokbong-mul>=0.1.0",
-    "seokbong-division>=0.1.0",
+    "seokbong-add>=1.0.0",
+    "seokbong-mul>=1.0.2",
+    "seokbong-division>=0.3.0",
 ]
 requires-python = ">=3.9"
 readme = "README.md"
