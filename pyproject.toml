@@ -15,7 +15,9 @@ readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-seokbong_cmd = 'seokbong_cmd.seokbong_cmd:call'
+seokbong-cmd-plus = 'seokbong_cmd.seokbong_cmd:call_plus'
+seokbong-cmd-mul = 'seokbong_cmd.seokbong_cmd:call_mul'
+seokbong-cmd-div = 'seokbong_cmd.seokbong_cmd:call_div'
 
 [tool.pdm]
 distribution = true
