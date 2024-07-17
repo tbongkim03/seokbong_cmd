@@ -1,12 +1,12 @@
-from seokbong_add.add import add
-from seokbong_division.division import divide
-from seokbong_mul.mul import mul
+from seokbong_add.add import seokbong_add
+from seokbong_division.division import seokbong_divide
+from seokbong_mul.mul import seokbong_mul
 
 def call_add():
-    add()
+    seokbong_add()
 
 def call_mul():
-    mul()
+    seokbong_mul()
 
 def call_div():
-    divide()
+    seokbong_divide()
