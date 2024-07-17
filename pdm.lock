@@ -5,37 +5,37 @@
 groups = ["default"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.4.2"
-content_hash = "sha256:21d1035685791b02daa3d44207f12dd0c3961a486f7477a2439e88614d9279ca"
+content_hash = "sha256:c888695e00032d5998cde962b12dfdb420ca1c623d41c1cd3b88dd7d2ecaecf6"
 
 [[package]]
 name = "seokbong-add"
-version = "0.1.0"
+version = "1.0.0"
 requires_python = ">=3.9"
 summary = "Default template for PDM package"
 groups = ["default"]
 files = [
-    {file = "seokbong_add-0.1.0-py3-none-any.whl", hash = "sha256:8decedff8fb6c8bb9be6e63c13ccbe6947b2d9402215559a73179cc53d5259bd"},
-    {file = "seokbong_add-0.1.0.tar.gz", hash = "sha256:975c542d7b33ae810ad6783c853096d421dc377a193c594ef681c204f82af285"},
+    {file = "seokbong_add-1.0.0-py3-none-any.whl", hash = "sha256:d50ca91bd9d056ec01594a9a7ecaab1ffcc9f3d6421990e5595a6f6e6774499c"},
+    {file = "seokbong_add-1.0.0.tar.gz", hash = "sha256:f301eb15b3d5ba2fa9cbbca4e22b9258804fcae9868a4d0a313e4d6ea2eea1c2"},
 ]
 
 [[package]]
 name = "seokbong-division"
-version = "0.1.0"
+version = "0.3.0"
 requires_python = ">=3.9"
 summary = "Default template for PDM package"
 groups = ["default"]
 files = [
-    {file = "seokbong_division-0.1.0-py3-none-any.whl", hash = "sha256:e09970cba409c2a81a6ab9ad9ee4148ce7ba205ae562bed621be861f2e6f25f3"},
-    {file = "seokbong_division-0.1.0.tar.gz", hash = "sha256:c80950d53dff144048e77f9467fc4703db3b1ea5c85ac445c0a71b31a71f123c"},
+    {file = "seokbong_division-0.3.0-py3-none-any.whl", hash = "sha256:71374cab3483e9909647cb0072ea63784e2b1bcf90ce417806e53b15f8cf796e"},
+    {file = "seokbong_division-0.3.0.tar.gz", hash = "sha256:8430c70b56c59b2fa5cd0c87cd0cdba7b97c8bd22a4efe3ab48fd4c7cb98ed26"},
 ]
 
 [[package]]
 name = "seokbong-mul"
-version = "0.1.0"
+version = "1.0.2"
 requires_python = ">=3.9"
 summary = "Default template for PDM package"
 groups = ["default"]
 files = [
-    {file = "seokbong_mul-0.1.0-py3-none-any.whl", hash = "sha256:f0d5338b2f3c1033763a6ac6c366d18b96b642bb05a818bdc37b4396ed458892"},
-    {file = "seokbong_mul-0.1.0.tar.gz", hash = "sha256:5862d148ce9c9db98451894fa96767735670c6fd7e40b2686b1982a41f0269cc"},
+    {file = "seokbong_mul-1.0.2-py3-none-any.whl", hash = "sha256:2922f76d390126214aba5804b0de17b4f18ca3620d9d90198a1a7f11f8464d01"},
+    {file = "seokbong_mul-1.0.2.tar.gz", hash = "sha256:5c5714d974e0abfc755913bb64ed18959e675bc320c0b7ee4a61ae340852614d"},
 ]

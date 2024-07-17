@@ -1,21 +1,23 @@
 [project]
 name = "seokbong_cmd"
-version = "1.0.0"
+version = "2.0.0"
 description = "Default template for PDM package"
 authors = [
     {name = "tbongkim03", email = "tbongkim03@gmial.com"},
 ]
 dependencies = [
-    "seokbong-add>=0.1.0",
-    "seokbong-mul>=0.1.0",
-    "seokbong-division>=0.1.0",
+    "seokbong-add>=1.0.0",
+    "seokbong-mul>=1.0.2",
+    "seokbong-division>=0.3.0",
 ]
 requires-python = ">=3.9"
 readme = "README.md"
 license = {text = "MIT"}
 
 [project.scripts]
-seokbong_cmd = 'seokbong_cmd.seokbong_cmd:call'
+seokbong-cmd-plus = 'seokbong_cmd.seokbong_cmd:call_plus'
+seokbong-cmd-mul = 'seokbong_cmd.seokbong_cmd:call_mul'
+seokbong-cmd-div = 'seokbong_cmd.seokbong_cmd:call_div'
 
 [tool.pdm]
 distribution = true
