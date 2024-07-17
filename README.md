@@ -14,15 +14,15 @@
 
    ![pip install](https://github.com/tbongkim03/seokbong_cmd/blob/main/img/install_pip.png?raw=true)
 
-   `$ seokbong_cmd_plus`
+   `$ seokbong-cmd-plus <first num> <second num>`
 
    ![add](https://github.com/tbongkim03/seokbong_cmd/blob/main/img/add.png?raw=true)
 
-   `$ seokbong_cmd_mul`
+   `$ seokbong-cmd-mul <first num> <second num>`
 
    ![mul](https://github.com/tbongkim03/seokbong_cmd/blob/main/img/mul.png?raw=true)
 
-   `$ seokbong_cmd_div`
+   `$ seokbong-cmd-div <first num> <second num>`
 
    ![div](https://github.com/tbongkim03/seokbong_cmd/blob/main/img/div.png?raw=true)
 
